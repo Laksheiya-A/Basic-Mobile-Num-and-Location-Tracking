@@ -1,1 +1,1 @@
-# Basic-Mobile-Num-and-Location-Tracking
+This project code imports and executes the required packages, libraries and modules in the python programming, including mobile numbers, which is used to parse the phone numbers, geocoder, which is used to track the location of a particular mobile number given, and folium, which is used to create maps in this project. It will also assigns a value to the variable key.
